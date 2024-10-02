@@ -3,13 +3,14 @@
 A simple and efficient task management tool to help you stay organized with your everyday to-do lists. This project allows users to create, manage, and track their tasks in a straightforward and intuitive way.
 
 Live Demo: https://todolist-q1akm.vercel.app/
+![ToDoList - demo](https://github.com/user-attachments/assets/5dbec94b-c228-43de-babf-40629ff88b23)
 
 
 Getting Started
 Clone the repository:
 
 ```bash
-git clone https://github.com/q1akm/TodoList.git
+git clone https://github.com/q1akm/ToDoList.git
 ```
 Navigate into the project directory:
 
